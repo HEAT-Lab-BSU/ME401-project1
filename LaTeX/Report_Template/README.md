@@ -3,3 +3,6 @@ This folder contains a latex formatted text file which can be used to generate t
 
 also, included is a pdf of the report template output.
 
+### Recommended Use:
+
+Copy the text from the .txt file and paste it directly into the overleaf LaTeX editor.
