@@ -58,14 +58,6 @@ This toolkit supports student engineering teams in:
 
 ---
 
-### Download link:
-
-To download the data-analysis package the following link can be used:
-
-https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/maxwellhewes/ME_401_project1/tree/main/data_analysis
-
-To download the notebook for upload to Kaggle:
-
 https://downgit.github.io/#/home?url=https://github.com/maxwellhewes/ME_401_project1/blob/main/notebook/data_analysis_notebook.ipynb
 
 This folder can be uploaded to kaggle, or any other notebook hosting service to run the package.
